@@ -1,1 +1,1 @@
-This is my first repository. Starting to get back into GitHub after a few years.
+Starting to get back into GitHub after a few years. I've added a lot of my older projects which were lost in an old account to this profile. The repo I'm working on currently is Learning-C-via-making-a-Lisp. I'm planning on slowly adding more detail to the older project repos to explain what they were for and what I managed to do.
